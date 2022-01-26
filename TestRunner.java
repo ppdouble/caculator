@@ -11,7 +11,7 @@ public class TestRunner {
 
         List<String> passed = new ArrayList<>();
         List<String> failed = new ArrayList<>();
-        //Object UnitTest;
+
         for (Class<?> klass : TESTS) {
             if (!UnitTest.class.isAssignableFrom(klass)) {
                 throw new IllegalArgumentException("Class " + klass.toString() + " must implement UnitTest");
