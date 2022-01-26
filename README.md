@@ -7,7 +7,7 @@ title: A simple test framework
 
 - Steps:
   - Define annotation
-  - Using reflection to invoke annotated methods
+  - Using reflection API to invoke annotated methods
 
 **Compile & Run:**
 
