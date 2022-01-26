@@ -9,7 +9,7 @@ title: A simple test framework
   - Define annotation
   - Using reflection to invoke annotated methods
 
-**Run:**
+**Compile & Run:**
 
 `javac *.java`
 
